@@ -1,0 +1,51 @@
+
+body {
+    color: #3d2514;
+}
+
+/* header-area start */
+
+.delivery-num {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar .nav-item .nav-link {
+    color:#3d2514;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    margin: 5px 10px;
+}
+.banner-sub-heading {
+    font-size: x-large;
+    border: 3px dashed  #3d2514;
+}
+.banner-main-heading-p1,
+.banner-main-heading-p2 {
+    font-size: 16vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    
+} 
+.banner-main-heading-p2 {
+    font-size: 11vh;  
+}
+.banner-burger-img {
+   width: 100%; 
+   height: auto;
+}  
+.banner-container {
+    background: url("../images/banner-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* header-area end */
+
+/* featured-area start */
+.featured-item-left,
+.featured-item-righ {
+    height: 500px;
+}
+
+
+
+/* featured-area end */
