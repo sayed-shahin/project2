@@ -45,7 +45,15 @@ body {
 .featured-item-righ {
     height: 500px;
 }
-
+.featured-item-text-p1,
+.featured-item-text-p12 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.featured-item-text-p2 {
+    font-size: 3em;
+}
 
 
 /* featured-area end */
